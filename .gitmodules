@@ -1,0 +1,6 @@
+[submodule "acutest"]
+	path = acutest
+	url = https://github.com/mity/acutest
+[submodule "fff"]
+	path = fff
+	url = https://github.com/meekrosoft/fff
